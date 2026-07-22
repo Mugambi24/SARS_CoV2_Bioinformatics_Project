@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the bioinformatics analysis of SARS-CoV-2 whole genome sequencing data. The 
+This project focuses on the bioinformatics analysis of SARS-CoV-2 whole-genome sequencing data. The 
 workflow includes quality assessment, genome alignment, variant identification, and genomic 
 characterization using reproducible computational approaches.
 
@@ -12,7 +12,7 @@ viral genomic surveillance.
 ---
 
 ## Research Objectives
-
+The objectives for this research are to:-
 - Perform quality assessment of SARS-CoV-2 sequencing reads.
 - Map viral reads against the SARS-CoV-2 reference genome.
 - Identify genomic variants.
@@ -132,7 +132,7 @@ Raw sequencing data files are excluded from this repository because of their lar
 
 ## Author
 
-**Isaiah Mugambi**
+**Mugambi Isaiah**
 
 Bioinformatics | Molecular Biology | Genomic Medicine
 
