@@ -1,13 +1,28 @@
-# macOS
-.DS_Store
-
-# Large sequencing data
+# Raw sequencing data
 *.fastq
 *.fastq.gz
+
+# Alignment files
 *.sam
 *.bam
 *.bai
 
-# Optional: ignore downloaded SRA folders
+# Variant files
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+
+# Downloaded SRA folders
 ERR*/
 SRR*/
+
+# Temporary files
+*.tmp
+*.log
+
+# Nextflow files
+.work/
+.nextflow*
+
+# macOS files
+.DS_Store
