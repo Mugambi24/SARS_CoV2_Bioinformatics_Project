@@ -1,0 +1,3 @@
+Sample	Unique Reads	Duplicate Reads
+ERR5743893_1	9399.0	189316.0
+ERR5743893_2	11767.0	186565.0

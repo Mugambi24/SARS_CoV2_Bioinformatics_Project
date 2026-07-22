@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Large sequencing data
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.bai
+
+# Optional: ignore downloaded SRA folders
+ERR*/
+SRR*/
