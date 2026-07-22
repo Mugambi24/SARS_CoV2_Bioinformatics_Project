@@ -46,13 +46,7 @@ Reference genome:
 
 Accession: MN908947.3
 
-Reference files and alignment indexes are stored in:
-
-Reference files and alignment indexes are stored in:
-
-
-reference/
-
+Reference files and alignment indexes are stored in: reference/
 
 ---
 
